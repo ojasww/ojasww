@@ -1,3 +1,6 @@
+![IMG_2522](https://github.com/user-attachments/assets/671b7920-0271-416f-b11c-b879f4901e96)
+Image courtesy of Ojas Wadhwani - [Northern Alps in Japan](https://www.alpen-route.com/en/)
+
 ## Hi there! 👋 I'm Ojas  
 
 I'm a software engineer based in Bangalore, the Silicon Valley of India. I'm a versatile engineer with experience in working in cross functional international teams delivering a strong business impact. I graduated with a degree in Computer Science from [BITS Pilani](https://www.bits-pilani.ac.in/goa/), one of the top universities in India in 2021.
