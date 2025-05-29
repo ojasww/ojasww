@@ -3,9 +3,9 @@ Image courtesy of Ojas Wadhwani - [Northern Alps in Japan](https://www.alpen-rou
 
 ## Hi there! 👋 I'm Ojas  
 
-I'm a software engineer based in Tokyo working for Rakuten. Previously, I've worked from Bangalore - the Silicon Valley of India. I'm a versatile engineer with experience in working in cross functional international teams delivering a strong business impact. I graduated with a degree in Computer Science from [BITS Pilani](https://www.bits-pilani.ac.in/goa/), one of the top universities in India in 2021.
+I'm a software engineer based in Tokyo working for Rakuten. I'm a versatile engineer with experience in working in cross functional international teams delivering a strong business impact. I graduated with a degree in Computer Science from [BITS Pilani](https://www.bits-pilani.ac.in/goa/), one of the top universities in India in 2021.
 
-With previous experience in working for a B2B SaaS - [Hasura](https://hasura.io/), I have worked extensively with **GoLang** to build scalable systems and leveraged my **TypeScript** and front-end expertise to deliver seamless user experiences. I also have a strong background in solving **data structures and algorithms** using **C++**, honed through competitive programming ([Leetcode](https://leetcode.com/u/onyx_098/)).
+I have previous experience in working for a B2B SaaS - [Hasura](https://hasura.io/) from Bangalore - the Silicon Valley of India. I have worked extensively with **GoLang** to build scalable systems and leveraged my **TypeScript** and front-end expertise to deliver seamless user experiences. I also have a strong background in solving **data structures and algorithms** using **C++**, honed through competitive programming ([Leetcode](https://leetcode.com/u/onyx_098/)).
 
 Apart from the academic curriculum, I was in-charge of driving the registrations for the university’s technical-festival. During my junior year, I was a teaching assistant for the course - Database Systems in MySQL for the batch of 200. 
 
